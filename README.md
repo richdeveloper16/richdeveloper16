@@ -5,3 +5,5 @@ análisis de requerimientos y liderazgo técnico. Especialista en el diseño e i
 empresariales, así como en desarrollo web frontend y backend, con participación integral en todas las etapas del
 
 ciclo de vida del desarrollo de software
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb,js,html,css)](https://skillicons.dev)
