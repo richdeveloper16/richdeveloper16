@@ -1,9 +1,7 @@
-Licenciado en Tecnologías de la Información, con más de 15 años de experiencia en el desarrollo de software,
+# Hola, soy Ricardo Martínez 👋
+[cite_start]Desarrollador Full Stack con más de 15 años de experiencia en el ciclo de vida de desarrollo de software. 
+[cite_start]Actualmente cursando una Maestría en Ingeniería de Software y Sistemas Informáticos[cite: 2, 4].
 
-análisis de requerimientos y liderazgo técnico. Especialista en el diseño e implementación de aplicaciones
-
-empresariales, así como en desarrollo web frontend y backend, con participación integral en todas las etapas del
-
-ciclo de vida del desarrollo de software
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb,js,html,css)](https://skillicons.dev)
+- [cite_start]🏢 Actualmente trabajando en proyectos de arquitectura y desarrollo de software.
+- [cite_start]🎓 Maestro en formación en la UNIR[cite: 2, 4].
+- [cite_start]✉️ Contáctame en: ricardomtzh.hdz@gmail.com [cite: 19, 25]
