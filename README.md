@@ -20,8 +20,10 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 | 2023 - 2025 | IMSS Bienestar | Subdirección de Arquitectura de Datos |
 | 2014 - 2023 | Registro Único de Vivienda | Subdirección de Desarrollo |
 
-### 💼 Habilidades Técnicas |
-| :--- | :--- | :--- |
+### 💼 Habilidades Técnicas 
+
+|   |    |
+| :--- | :--- |
 | Lenguajes | Java, C#, Python, JavaScript, TypeScript |
 | Frontend | Angular, React, Next.js, Ionic, CSS, Tailwind CSS, Bootstrap |
 | Backend | Node.js, Spring Framework, C#/.NET |
