@@ -20,6 +20,16 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 | 2023 - 2025 | IMSS Bienestar | Subdirección de Arquitectura de Datos |
 | 2014 - 2023 | Registro Único de Vivienda | Subdirección de Desarrollo |
 
+
+| HABILIDADES TÉCNICAS |
+| :--- | :--- | :--- |
+| Lenguajes | Java, C#, Python, JavaScript, TypeScript |
+| Frontend | Angular, React, Next.js, Ionic, CSS, Tailwind CSS, Bootstrap |
+| Backend | Node.js, Spring Framework, C#/.NET |
+| Bases de datos | SQL Server, MySQL, PostgreSQL, MongoDB, MariaDB |
+| Herramientas | Git, Metodologías Ágiles (Scrum/Kanban), Metodología BEAN |
+
+
 ### Mis Habilidades (Skill Icons)
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=java,cs,py,js,ts,angular,react,nextjs,nodejs,spring,mysql,mongodb,postgres,git,tailwind,bootstrap)](https://skillicons.dev)
