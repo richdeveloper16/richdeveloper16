@@ -30,6 +30,16 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 | Bases de datos | SQL Server, MySQL, PostgreSQL, MongoDB, MariaDB |
 | Herramientas | Git, Metodologías Ágiles (Scrum/Kanban), Metodología BEAN |
 
+### 🎓 Formación Complementaria
+ ## Cursos de actualización y especialización en plataformas como Udemy, enfocados en desarrollo web frontend, backend y buenas prácticas de ingeniería de software
+| Frontend | Backend y Lenguajes |
+| :--- | :--- |
+| Angular Avanzado | Node.js |
+| React | C# / .NET |
+| Next.js | Spring Framework |
+| TypeScript | Java |
+| Ionic 6 | |
+| Bootstrap 5 |  |
 
 ### Mis Habilidades (Skill Icons)
 
