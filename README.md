@@ -16,7 +16,7 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 
 | Periodo | Empresa / Institución | Rol |
 | :--- | :--- | :--- |
-| 2026 -ACTUALIDAD| Fiscalía General de Justicia CDMX | Desarrollador |
+| 2026 -Actualidad| Fiscalía General de Justicia CDMX | Desarrollador |
 | 2023 - 2025 | IMSS Bienestar | Subdirección de Arquitectura de Datos |
 | 2014 - 2023 | Registro Único de Vivienda | Subdirección de Desarrollo |
 
@@ -26,9 +26,10 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 | :--- | :--- |
 | Lenguajes | Java, C#, Python, JavaScript, TypeScript |
 | Frontend | Angular, React, Next.js, Ionic, CSS, Tailwind CSS, Bootstrap |
-| Backend | Node.js, Spring Framework, C#/.NET |
+| Backend | Node.js, Spring Framework, C#/.NET , NestJS|
 | Bases de datos | SQL Server, MySQL, PostgreSQL, MongoDB, MariaDB |
 | Herramientas | Git, Metodologías Ágiles (Scrum/Kanban), Metodología BEAN |
+| Arquitectura / Prácticas | Clean Code, principios SOLID, arquitectura de datos, JPA/Hibernate |
 
 ### 🎓 Formación Complementaria
  ## Cursos de actualización y especialización en plataformas como Udemy, enfocados en desarrollo web frontend, backend y buenas prácticas de ingeniería de software
