@@ -16,7 +16,7 @@ Licenciado en Tecnologías de la Información con más de 15 años de experienci
 
 | Periodo | Empresa / Institución | Rol |
 | :--- | :--- | :--- |
-| 2026 | Fiscalía General de Justicia CDMX | Desarrollador |
+| 2026 -ACTUALIDAD| Fiscalía General de Justicia CDMX | Desarrollador |
 | 2023 - 2025 | IMSS Bienestar | Subdirección de Arquitectura de Datos |
 | 2014 - 2023 | Registro Único de Vivienda | Subdirección de Desarrollo |
 
