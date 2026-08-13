@@ -2,7 +2,7 @@
 <h3 align="center">Senior Full Stack Software Developer · 15+ años de experiencia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Angular+%2B+Spring+Boot+%2B+PostgreSQL;Clean+Code+%26+SOLID+en+cada+proyecto;Arquitectura+de+software+empresarial+e+institucional" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Angular+%2B+Spring+Boot+%2B+PostgreSQL;Clean+Code+%26+SOLID+en+cada+proyecto;Arquitectura+de+software+empresarial+e+institucional;NodJS,NextJS,Nestjs,TypeSctipt,MongoDB" alt="Typing SVG" />
 </p>
 
 <p align="center">
