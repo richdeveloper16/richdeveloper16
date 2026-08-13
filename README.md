@@ -17,10 +17,6 @@
 
 Licenciado en Tecnologías de la Información con más de 15 años de experiencia en desarrollo de software, análisis de requerimientos y liderazgo técnico. Especialista en diseño e implementación de aplicaciones empresariales, con dominio en desarrollo frontend y backend, y amplia participación en todo el ciclo de vida del software (SDLC).
 
-- 🏢 Actualmente en la **Fiscalía General de Justicia de la Ciudad de México**, desarrollando **SIBA** (Sistema Integral de Búsqueda y Análisis)
-- 🎓 Cursando la Maestría en Ingeniería de Software y Sistemas Informáticos (UNIR), consolidando conocimientos en arquitectura, datos y buenas prácticas
-- 🧱 Enfoque constante en **Clean Code** y principios **SOLID**
-
 ---
 
 ### 🎓 Educación
