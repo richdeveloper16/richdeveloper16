@@ -13,7 +13,7 @@
 
 ### 🧭 Sobre mí
 
-Licenciado en Tecnologías de la Información con más de 15 años de experiencia en desarrollo de software, análisis de requerimientos y liderazgo técnico. Especialista en diseño e implementación de aplicaciones empresariales, con dominio en desarrollo frontend y backend, y amplia participación en todo el ciclo de vida del software (SDLC).
+Desarrollador Full Stack con más de 18 años de experiencia en análisis, diseño, desarrollo e implementación de soluciones empresariales. Experiencia en Java, Spring Boot, TypeScript, NestJS, Angular, React y Next.js, bases de datos relacionales y APIs REST. Trayectoria combinando desarrollo hands-on con liderazgo técnico, coordinación de equipos y arquitectura de software y datos, participando en el ciclo completo de desarrollo (SDLC).
 
 ---
 
