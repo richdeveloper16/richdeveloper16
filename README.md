@@ -228,8 +228,6 @@ Soy desarrollador Full Stack enfocado en crear aplicaciones modernas, escalables
 
 ---
 
-## 🌐 07 // CONNECT WITH ME
-
 
 <!-- ====================================== -->
 <!-- 07 // PORTFOLIO & CONTACT             -->
