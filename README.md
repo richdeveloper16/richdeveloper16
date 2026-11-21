@@ -182,11 +182,47 @@ Soy desarrollador Full Stack enfocado en crear aplicaciones modernas, escalables
 
 ## 🐍 06 // CONTRIBUTION SNAKE
 
+
+<!-- ====================================== -->
+<!-- 06 // CONTRIBUTION SNAKE              -->
+<!-- ====================================== -->
+
+<h2 align="center">🐍 06 // CONTRIBUTION SNAKE</h2>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/richdeveloper16/richdeveloper16/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <code>&gt; SYSTEM.SNAKE --CYBERPUNK</code>
+
+  <br /><br />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/richdeveloper16/richdeveloper16/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/richdeveloper16/richdeveloper16/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Rich Developer Cyberpunk Contribution Snake"
+      src="https://raw.githubusercontent.com/richdeveloper16/richdeveloper16/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
+
+  <br /><br />
+
+  <strong>💜 EVERY COMMIT TELLS A STORY</strong>
+
+  <p>
+    <code>&lt;/&gt; CODE · CREATE · INNOVATE</code>
+  </p>
 
 </div>
+
+---
+
 
 > La animación estará disponible después de configurar el workflow de GitHub Actions.
 
@@ -194,11 +230,123 @@ Soy desarrollador Full Stack enfocado en crear aplicaciones modernas, escalables
 
 ## 🌐 07 // CONNECT WITH ME
 
+
+<!-- ====================================== -->
+<!-- 07 // PORTFOLIO & CONTACT             -->
+<!-- ====================================== -->
+
+<h2 align="center">🌐 07 // CONNECT WITH ME</h2>
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/richdeveloper16)
+  <code>&gt; SYSTEM.CONTACT --ONLINE</code>
+
+  <br /><br />
+
+  <strong>Let's build something amazing together!</strong>
+
+  <p>
+    Open to collaborations, interesting projects
+    and new development opportunities.
+  </p>
+
+  <br />
+
+  <!-- PORTFOLIO -->
+  <!-- Replace YOUR_PORTFOLIO_URL -->
+  <a href="https://portafolio-richdevelop.onrender.com/">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-09090B?style=for-the-badge&logo=vercel&logoColor=22D3EE"
+      alt="Portfolio"
+    />
+  </a>
+
+  <!-- GITHUB -->
+  <a href="https://github.com/richdeveloper16">
+    <img
+      src="https://img.shields.io/badge/GITHUB-181024?style=for-the-badge&logo=github&logoColor=A855F7"
+      alt="GitHub"
+    />
+  </a>
+
+  <!-- LINKEDIN -->
+  <!-- Replace YOUR_LINKEDIN_URL -->
+  <a href="https://portafolio-richdevelop.onrender.com/">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-181024?style=for-the-badge&logo=linkedin&logoColor=22D3EE"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <!-- EMAIL -->
+  <!-- Replace YOUR_EMAIL -->
+  <a href="mailto:YOUR_EMAIL">
+    <img
+      src="https://img.shields.io/badge/EMAIL-181024?style=for-the-badge&logo=gmail&logoColor=EC4899"
+      alt="Email"
+    />
+  </a>
 
 </div>
+
+<br />
+
+<!-- ====================================== -->
+<!-- COLLABORATION                         -->
+<!-- ====================================== -->
+
+<div align="center">
+
+  <h3>💜 LET'S COLLABORATE</h3>
+
+  <code>&gt; READY_TO_BUILD_SOMETHING_NEW</code>
+
+  <p>
+    Have an idea or a project in mind?
+    Let's turn it into a digital solution.
+  </p>
+
+  <a href="https://github.com/richdeveloper16">
+    <img
+      src="https://img.shields.io/badge/EXPLORE_MY_WORK-A855F7?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore My Work"
+    />
+  </a>
+
+</div>
+
+<br />
+
+<!-- ====================================== -->
+<!-- CYBERPUNK FOOTER                      -->
+<!-- ====================================== -->
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:7E22CE,100:22D3EE&height=120&section=footer"
+    width="100%"
+    alt="Cyberpunk footer"
+  />
+
+  <h2>〈/〉 RICH DEVELOPER</h2>
+
+  <strong>CODE · CREATE · INNOVATE</strong>
+
+  <br /><br />
+
+  <code>&gt; SYSTEM.STATUS: ALWAYS BUILDING</code>
+
+  <br /><br />
+
+  <sub>Designed with 💜 by Rich Developer</sub>
+
+  <br />
+
+  <sub>© 2026 Rich Developer</sub>
+
+</div>
+
 
 ---
 
